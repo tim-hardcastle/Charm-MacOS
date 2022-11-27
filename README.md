@@ -1,4 +1,4 @@
 # Charm-MacOS
 MacOS executable for Charm
 
-Contains Charm manual.pdf which explains how it works, with notes for langdevs about why it works that way.
+Documentation is in [the README of the source code](https://github.com/tim-hardcastle/Charm#readme).
